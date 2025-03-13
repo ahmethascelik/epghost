@@ -6,7 +6,8 @@ This repository provides an up-to-date **Electronic Program Guide (EPG)** for Tu
 
 You can access the latest EPG data from the following link:
 
-📥 **[https://raw.githubusercontent.com/ahmethascelik/epghost/refs/heads/main/xmltv.xml](https://raw.githubusercontent.com/ahmethascelik/epghost/refs/heads/main/xmltv.xml)**
+📥 **[https://raw.githubusercontent.com/ahmethascelik/epghost/main/xmltv.xml](https://raw.githubusercontent.com/ahmethascelik/epghost/main/xmltv.xml)**
+
 
 ## How It Works
 
